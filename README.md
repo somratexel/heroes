@@ -1,5 +1,10 @@
 # heroes
 Angular 2 test
 
-Run npm install
-the run npm run typings install
+Run:
+
+npm install
+
+then
+
+npm run typings install
