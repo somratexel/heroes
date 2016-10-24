@@ -5,6 +5,6 @@ Run:
 
 npm install
 
-then
+if typings folder does not create then run
 
 npm run typings install
