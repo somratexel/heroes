@@ -3,6 +3,7 @@
 .DS_Store
 .idea
 node_modules
+typings
 jspm_packages
 link-checker-results.txt
 **/*npm-debug.log.*
